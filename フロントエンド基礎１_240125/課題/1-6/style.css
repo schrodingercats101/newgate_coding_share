@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* 以下に記述 */
+h3, p {
+    display: inline;
+}
+
+.header {
+    background-color: #ffe4c4;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+
+.header-left {
+    float: left;
+}
+
+img {
+    width: 50px;
+}
+
+.header-right {
+    float: right;
+}
+
+.header-right p {
+    margin-right: 30px;
+}

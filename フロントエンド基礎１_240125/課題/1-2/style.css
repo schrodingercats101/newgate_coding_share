@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* 以下に記述 */
+p {
+    margin: 0;
+}
+
+.parent {
+    width: 300px;
+    height: 300px;
+    font-size: 40px;
+}
+
+#box3 {
+    width: 180px;
+    height: 180px;
+    font-size: 40px;
+}
+
+.red {
+    color: blue;
+    background-color: red;
+}
+
+.blue {
+    color: red;
+    background-color: blue;
+}
